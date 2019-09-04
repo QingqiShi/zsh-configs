@@ -2,6 +2,9 @@
 
 This is my ZSH terminal config.
 
+![Preview](https://user-images.githubusercontent.com/6232457/64274410-3d4d3180-cf3b-11e9-89aa-cd362a67568f.png)
+
+
 ## Usage
 
 1. Install `iTerm2` from https://www.iterm2.com/
