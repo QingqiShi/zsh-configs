@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repository is archived. Use this instead: https://github.com/QingqiShi/dotfiles
+
 # zsh-configs
 
 Enhance your ZSH terminal experience with my customized configuration.
